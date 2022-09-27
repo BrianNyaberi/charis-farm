@@ -122,8 +122,8 @@ ol {
      margin: 0px;
      padding: 0px;
      list-style: none;
-     list-style-type: circle;
-     color:rgb(0, 0, 0);
+     /* list-style-type: circle;
+     color:rgb(0, 0, 0); */
 }
 
 p {
